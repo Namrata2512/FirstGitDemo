@@ -11,7 +11,7 @@ al.add(25);
 al.add("hello");
 al.add(null);
 al.add(null);
-System.out.println(al);
+
 	}
 
 }
